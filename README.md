@@ -1180,22 +1180,6 @@ I'm continuously improving my skills in SQL, Power BI, Excel, and Python while b
 
 
 
-# 🤝 Connect With Me
-
-
-
-- 💼 LinkedIn: *(Add your LinkedIn profile here)*
-
-- 📧 Email: *(Add your email here)*
-
-- 🌐 GitHub: *(Add your GitHub profile here)*
-
-
-
----
-
-
-
 <div align="center">
 
 
