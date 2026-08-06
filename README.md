@@ -18,7 +18,7 @@ Transforming raw transactional data into actionable business insights through in
 
 
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge)![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=for-the-badge)![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 
 
